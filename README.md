@@ -6,5 +6,10 @@ Loading the dataset-
 ![](images/output7.png)
 
 Processing the dataset-
+Displaying the distinct categories of resume and the number of records belonging to each category -
 
 ![](images/output2.png)
+
+Visualization of the Data-
+
+![](images/output3.png)
